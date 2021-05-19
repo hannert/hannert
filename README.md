@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hannert
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently working on a Roblox game.
 - 📫 Reach to me on my webiste! hanlin.dev
 
 <!---
