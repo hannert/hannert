@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannert
-- 🌱 I’m currently working on a Roblox game.
-- 📫 Reach to me on my webiste! hanlin.dev
+
+- 📫 Reach to me on my website! hanlin.dev
 
 <!---
 hannert/hannert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
