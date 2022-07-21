@@ -3,4 +3,4 @@
 - 🎓 Currently in my senior year of college! 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannert&layout=compact)
