@@ -4,7 +4,7 @@ Latest project: MapperMan, a MERN stack website allowing users to collaborativel
 
 
 I'm developing a game in the Unity engine!
--> Currently working on a custom kinematic character controller. **(Please send help)** <br> Check it out: https://github.com/hannert/Personal-Project
+-> Check it out: https://github.com/hannert/Personal-Project
 
 
 Check out my personal website! https://hanlin.dev/
